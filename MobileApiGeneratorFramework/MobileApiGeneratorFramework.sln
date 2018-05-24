@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobileApiGeneratorFramework
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralLibrary", "GeneralLibrary\GeneralLibrary.csproj", "{96E7CD4E-2BA1-4F7C-8453-DB63C148AD85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReminderLibrary", "ReminderLibrary\ReminderLibrary.csproj", "{901F921E-AAC2-420E-9614-F3FA36629BC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{96E7CD4E-2BA1-4F7C-8453-DB63C148AD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96E7CD4E-2BA1-4F7C-8453-DB63C148AD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96E7CD4E-2BA1-4F7C-8453-DB63C148AD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901F921E-AAC2-420E-9614-F3FA36629BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901F921E-AAC2-420E-9614-F3FA36629BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901F921E-AAC2-420E-9614-F3FA36629BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901F921E-AAC2-420E-9614-F3FA36629BC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
