@@ -13236,11 +13236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Shahram Framework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework.csproj",
+      "projectUniqueName": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework.csproj",
       "projectName": "MobileApiGeneratorFramework",
-      "projectPath": "D:\\Shahram Framework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework.csproj",
+      "projectPath": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework.csproj",
       "packagesPath": "C:\\Users\\Shahram\\.nuget\\packages\\",
-      "outputPath": "D:\\Shahram Framework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\obj\\",
+      "outputPath": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13259,8 +13259,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Shahram Framework\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj": {
-              "projectPath": "D:\\Shahram Framework\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj"
+            "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj": {
+              "projectPath": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj"
             }
           }
         }
