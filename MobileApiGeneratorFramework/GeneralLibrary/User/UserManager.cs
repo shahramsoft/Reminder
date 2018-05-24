@@ -16,6 +16,57 @@ namespace GeneralLibrary.User
         {
 
         }
+        public  string EncryptPassword(string Password, string UserName, int key = 12)
+        {
+            string result;
+            try
+            {
+                string[] array = new string[Password.Length];
+                UserName = UserName.ToLower();
+                string text = "";
+                Encoding @default = Encoding.Default;
+                byte[] array2 = new byte[UserName.Length];
+                byte[] array3 = new byte[Password.Length];
+                byte[] bytes = @default.GetBytes(UserName);
+                byte[] bytes2 = @default.GetBytes(Password);
+                int[] array4 = new int[bytes2.Length];
+                for (int i = 0; i < bytes2.Length; i++)
+                {
+                    array4[i] = (int)bytes2[i];
+                }
+                short num = 0;
+                while ((int)num < UserName.Length)
+                {
+                    byte b = Convert.ToByte((int)(bytes[(int)num] + Convert.ToByte(key)));
+                    array2[(int)num] = b;
+                    char[] array5 = new char[@default.GetCharCount(array2, 0, array2.Length)];
+                    @default.GetChars(array2, 0, array2.Length, array5, 0);
+                    text = new string(array5);
+                    num += 1;
+                }
+                byte[] bytes3 = @default.GetBytes(text);
+                short num2 = 0;
+                while ((int)num2 < Password.Length)
+                {
+                    for (int j = 0; j < text.Length; j++)
+                    {
+                        array4[(int)num2] = (array4[(int)num2] ^ (int)bytes3[j]);
+                        byte b2 = Convert.ToByte(array4[(int)num2]);
+                        array3[(int)num2] = b2;
+                        char[] array6 = new char[@default.GetCharCount(array3, 0, array3.Length)];
+                        @default.GetChars(array3, 0, array3.Length, array6, 0);
+                        array[(int)num2] = new string(array6);
+                    }
+                    num2 += 1;
+                }
+                result = array[Password.Length - 1];
+            }
+            catch
+            {
+                result = "";
+            }
+            return result;
+        }
         public ResultViewModel Login (string userName,string password)
         {
             try
@@ -23,6 +74,7 @@ namespace GeneralLibrary.User
                 var isvalidData = false;
                 var name = "";
                 var family = "";
+                password = EncryptPassword(password, userName);
                 var commandnitgen = @"select * from [User] where Username='"+userName+"' and Password='"+password+"'";
                 var conn = new SqlConnection(ConnectionString);
 
@@ -102,6 +154,7 @@ namespace GeneralLibrary.User
                 }
                 if (!isvalidData)
                 {
+                    password = EncryptPassword(password, userName);
                      commandnitgen = @"insert into [User] (Username,[Password],Name,Family) values ('"+userName+"','"+password+"','"+name+"','"+family+"')";
                      conn = new SqlConnection(ConnectionString);
 
