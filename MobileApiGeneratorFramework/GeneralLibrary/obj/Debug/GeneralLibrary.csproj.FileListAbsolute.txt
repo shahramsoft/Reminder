@@ -1,0 +1,10 @@
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\GeneralLibrary.dll
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\GeneralLibrary.pdb
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.csprojResolveAssemblyReference.cache
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.csproj.CoreCompileInputs.cache
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.dll
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.pdb
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.csproj.CopyComplete
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Shahram Framework\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\Newtonsoft.Json.xml
