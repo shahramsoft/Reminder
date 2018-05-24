@@ -3,3 +3,9 @@
 ################################################################################
 
 /MobileApiGeneratorFramework/GeneralLibrary/bin/Release
+/MobileApiGeneratorFramework/GeneralLibrary/obj/Release
+/MobileApiGeneratorFramework/MobileApiGeneratorFramework/bin/Release
+/MobileApiGeneratorFramework/MobileApiGeneratorFramework/obj/Release/netcoreapp2.0
+/MobileApiGeneratorFramework/ReminderLibrary/bin/Release
+/MobileApiGeneratorFramework/ReminderLibrary/obj/Release
+/node_modules
