@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GeneralLibrary\GeneralLibrary.csproj" />
+    <ProjectReference Include="..\ReminderLibrary\ReminderLibrary.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,11 @@
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\ReminderLibrary.dll
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\ReminderLibrary.pdb
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\GeneralLibrary.dll
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\GeneralLibrary.pdb
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.csprojResolveAssemblyReference.cache
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.csproj.CoreCompileInputs.cache
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.csproj.CopyComplete
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.dll
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.pdb

@@ -27,6 +27,7 @@
           "Microsoft.AspNetCore.All": "2.0.5",
           "Microsoft.NETCore.App": "2.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.2",
+          "ReminderLibrary": "1.0.0",
           "System.Data.SqlClient": "4.5.0-rc1",
           "System.Web.Http.Common": "4.0.20126.16343"
         },
@@ -4095,6 +4096,17 @@
           "GeneralLibrary.dll": {}
         }
       },
+      "ReminderLibrary/1.0.0": {
+        "dependencies": {
+          "GeneralLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ReminderLibrary.dll": {}
+        },
+        "compile": {
+          "ReminderLibrary.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
@@ -6421,6 +6433,11 @@
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
     },
     "GeneralLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReminderLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

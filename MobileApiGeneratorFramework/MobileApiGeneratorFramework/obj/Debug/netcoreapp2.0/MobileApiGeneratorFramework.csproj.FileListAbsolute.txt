@@ -26,3 +26,5 @@ D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\MobileApiGenera
 D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.0\MobileApiGeneratorFramework.csproj.CopyComplete
 D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.0\MobileApiGeneratorFramework.dll
 D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.0\MobileApiGeneratorFramework.pdb
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.0\ReminderLibrary.dll
+D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.0\ReminderLibrary.pdb

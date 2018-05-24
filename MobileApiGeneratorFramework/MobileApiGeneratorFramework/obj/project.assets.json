@@ -5057,6 +5057,18 @@
         "runtime": {
           "bin/placeholder/GeneralLibrary.dll": {}
         }
+      },
+      "ReminderLibrary/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "GeneralLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReminderLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReminderLibrary.dll": {}
+        }
       }
     }
   },
@@ -13217,6 +13229,11 @@
       "type": "project",
       "path": "../GeneralLibrary/GeneralLibrary.csproj",
       "msbuildProject": "../GeneralLibrary/GeneralLibrary.csproj"
+    },
+    "ReminderLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ReminderLibrary/ReminderLibrary.csproj",
+      "msbuildProject": "../ReminderLibrary/ReminderLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13225,6 +13242,7 @@
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.2",
+      "ReminderLibrary >= 1.0.0",
       "System.Data.SqlClient >= 4.5.0-rc1",
       "System.Web.Http.Common >= 4.0.20126.16343"
     ]
@@ -13261,6 +13279,9 @@
           "projectReferences": {
             "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj": {
               "projectPath": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj"
+            },
+            "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\ReminderLibrary\\ReminderLibrary.csproj": {
+              "projectPath": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\ReminderLibrary\\ReminderLibrary.csproj"
             }
           }
         }
