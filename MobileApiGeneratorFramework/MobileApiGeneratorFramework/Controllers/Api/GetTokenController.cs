@@ -14,7 +14,7 @@ namespace MobileApiGeneratorFramework.Controllers.Api
         public ResultViewModel Token (string clientId,string clientSecret)
         {
             var tokenMng = new TokenManager();
-            return tokenMng.ValidateAndReturnToken(clientId,clientSecret);
+            return tokenMng.ValidateAndReturnToken(clientId,clientSecret); 
           
         }
     }
