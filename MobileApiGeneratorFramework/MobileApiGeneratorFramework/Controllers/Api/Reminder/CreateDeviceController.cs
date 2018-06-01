@@ -10,7 +10,7 @@ namespace MobileApiGeneratorFramework.Controllers.Api.Reminder
     [Route("api/CreateDevice")]
     public class CreateDeviceController : Controller
     {
-        public ResultViewModel Post([FromBody] string deviceName, [FromBody]  int userId, [FromBody]  DateTime firstTimeChecked, [FromBody] int periodOfChecks, [FromBody] string token)
+        public ResultViewModel Post( string deviceName, int userId,  string token)
         {
             var accessTokenManager = new TokenManager();
             // اگر توکن در خواست با مقدار موجود در دیتابیس مطابقت نداشت یا تاریخ مصرف آن به پایان رسیده بود از دسترسی به ای پی آی جلوگیری می شود
@@ -24,7 +24,7 @@ namespace MobileApiGeneratorFramework.Controllers.Api.Reminder
                 };
             }
             var userMng = new DeviceManager();
-            var result = userMng.CreateDevice(deviceName, userId, firstTimeChecked, periodOfChecks);
+            var result = userMng.CreateDevice(deviceName, userId);
             return result;
         }
     }

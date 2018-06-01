@@ -11,7 +11,7 @@ namespace MobileApiGeneratorFramework.Controllers.Api.General
     {
        // [TokenValidator]
         [HttpPost]
-        public ResultViewModel Post ([FromBody]string userName,[FromBody]string password,[FromBody] string token)
+        public ResultViewModel Post (string userName,string password,string token)
         {
             var accessTokenManager = new TokenManager();
             // اگر توکن در خواست با مقدار موجود در دیتابیس مطابقت نداشت یا تاریخ مصرف آن به پایان رسیده بود از دسترسی به ای پی آی جلوگیری می شود

@@ -15,11 +15,11 @@ namespace ReminderLibrary.Logic
         {
 
         }
-        public ResultViewModel CreateDevice (string deviceName, int userId,DateTime firstTimeChecked,int periodOfChecks)
+        public ResultViewModel CreateDevice (string deviceName, int userId)
         {
             try
             {
-                var commandnitgen = @"insert into Device (UserId,DeviceName,FirstTimeCheck,PeriodOfChecksPerMonths) values ("+ userId + ",'"+ deviceName + "','"+ firstTimeChecked + "',"+ periodOfChecks + ")";
+                var commandnitgen = @"insert into Device (UserId,DeviceName) values ("+ userId + ",'"+ deviceName + "')";
                 var conn = new SqlConnection(ConnectionString);
 
                 using (var cmd = new SqlCommand(commandnitgen, conn))

@@ -15,7 +15,7 @@ namespace MobileApiGeneratorFramework.Controllers.Api.General
     public class RegisterUserController : Controller
     {
         [HttpPost]
-        public ResultViewModel Post([FromBody]string userName, [FromBody]string password, [FromBody] string token,[FromBody] string name,[FromBody] string family)
+        public ResultViewModel Post(string userName, string password, string token, string name,string family)
         {
             var accessTokenManager = new TokenManager();
             // اگر توکن در خواست با مقدار موجود در دیتابیس مطابقت نداشت یا تاریخ مصرف آن به پایان رسیده بود از دسترسی به ای پی آی جلوگیری می شود
