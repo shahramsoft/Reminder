@@ -98,7 +98,7 @@ namespace ReminderLibrary.Logic
                 }
                 return new ResultViewModel
                 {
-                    Validate = false,
+                    Validate = true,
                     Message = "",
                     ValidateMessage = "هیچ اطلاعاتی جهت نمایش وجود ندارد"
                 };

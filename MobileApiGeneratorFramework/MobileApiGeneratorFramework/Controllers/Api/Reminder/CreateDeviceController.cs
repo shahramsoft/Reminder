@@ -16,7 +16,7 @@ namespace MobileApiGeneratorFramework.Controllers.Api.Reminder
             // اگر توکن در خواست با مقدار موجود در دیتابیس مطابقت نداشت یا تاریخ مصرف آن به پایان رسیده بود از دسترسی به ای پی آی جلوگیری می شود
             if (accessTokenManager.GetToken(token) == false)
             {
-                return new ResultViewModel
+                return new ResultViewModel 
                 {
                     Validate = false,
                     ValidateMessage = "Invalid Token",
