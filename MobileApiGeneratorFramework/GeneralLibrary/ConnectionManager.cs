@@ -12,6 +12,7 @@ namespace GeneralLibrary
         public ConnectionManager()
         {
             ConnectionString = "Password = Abc1234; Persist Security Info = True; User ID = shahramf_Reminder; Initial Catalog = shahramf_Reminder; Data Source =alfred.r1host.com";
+            //ConnectionString = "Password = Abc1234; Persist Security Info = True; User ID = sa; Initial Catalog = MobileApiGeneratorFramework; Data Source =.";
         }
     }
 }

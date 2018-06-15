@@ -74,6 +74,7 @@ namespace GeneralLibrary.User
                 var isvalidData = false;
                 var name = "";
                 var family = "";
+                var id = "0";
                 password = EncryptPassword(password, userName);
                 var commandnitgen = @"select * from [User] where Username='"+userName+"' and Password='"+password+"'";
                 var conn = new SqlConnection(ConnectionString);
@@ -87,6 +88,7 @@ namespace GeneralLibrary.User
                     {
                          name = reader["Name"].ToString();
                          family = reader["Family"].ToString();
+                        id = reader["Id"].ToString();
                         isvalidData = true;
                     }
                     conn.Close();
@@ -98,7 +100,8 @@ namespace GeneralLibrary.User
                     var userObj = new
                     {
                         Name = name,
-                        Family = family
+                        Family = family,
+                        Id= id
                     };
                     return new ResultViewModel
                     {

@@ -53,7 +53,7 @@ namespace GeneralLibrary.Token
                 }
                 return isvalidData;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
 
                 return false;

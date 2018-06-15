@@ -1,4 +1,5 @@
 ﻿using GeneralLibrary.ViewModel;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -15,6 +16,9 @@ namespace ReminderLibrary.Logic
         {
 
         }
+
+     
+
         public ResultViewModel CreateDevice (string deviceName, int userId)
         {
             try
@@ -52,5 +56,65 @@ namespace ReminderLibrary.Logic
                 };
             }
         }
+        public ResultViewModel GetUserDevices(string userid)
+        {
+            try
+            {
+                var listDevices = new List<ViewModel.DeviceViewModel>();
+                var isvalidData = false;
+                   var commandnitgen = @"select * from Device where UserId='" + userid + "'";
+                var conn = new SqlConnection(ConnectionString);
+
+                using (var cmd = new SqlCommand(commandnitgen, conn))
+                {
+                    cmd.CommandType = CommandType.Text;
+                    conn.Open();
+                    var reader = cmd.ExecuteReader(CommandBehavior.CloseConnection);
+                    while (reader.Read())
+                    {
+                        isvalidData = true;
+                       var name = reader["DeviceName"].ToString();
+                        var id = reader["Id"].ToString();
+                        listDevices.Add(new ViewModel.DeviceViewModel
+                        {
+                            Id=id,
+                            Name=name
+                        });
+
+                    }
+                    conn.Close();
+                    conn.Dispose();
+                    reader.Close();
+                }
+                if (isvalidData)
+                {
+                    
+                    return new ResultViewModel
+                    {
+                        Validate = true,
+                        Message = JsonConvert.SerializeObject(listDevices)
+
+                    };
+                }
+                return new ResultViewModel
+                {
+                    Validate = false,
+                    Message = "",
+                    ValidateMessage = "هیچ اطلاعاتی جهت نمایش وجود ندارد"
+                };
+            }
+            catch (Exception ex)
+            {
+
+                return new ResultViewModel
+                {
+                    Validate = false,
+                    Message = "",
+                    ValidateMessage = "عملیات با خطا مواجه شد",
+                    ExceptionMessage = ex.Message
+                };
+            }
+        }
     }
+    
 }
