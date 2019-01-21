@@ -7830,7 +7830,7 @@
       ]
     },
     "Microsoft.Win32.Registry/4.5.0-rc1": {
-      "sha512": "j0BmmvaE6wdQVo0uzFrt4XXAuNcM3F20K36k9VeHq7E/5i3Lx6TPY1DdokD3kwG3bOO3OaMu9ZBGEk6prpcTOA==",
+      "sha512": "YgG3ybfyw16ONVIvWjOlbV2rmy6ranWSyObopzP5XZ31tIoidl1AXZGQ750Jz9ANW0GVfIS8mmXdmQQ5/qHvUg==",
       "type": "package",
       "path": "microsoft.win32.registry/4.5.0-rc1",
       "files": [
@@ -8049,7 +8049,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "oVY69v3L+7AUj9ojXLnP/IB2n0/5E8L1TtAwq8Xl72WhMwUIVMK7TPQchVfP/w5L+H6f9+1KC624G4x0lJqFVg==",
+      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -9110,7 +9110,7 @@
       ]
     },
     "System.Data.SqlClient/4.5.0-rc1": {
-      "sha512": "hvZtR9A1qK9p0Z1XdPpWcU9L7+w8h4SO54DIoZTtWPfxEkYquW2n7LOXJieQc41UtxXIlF/9/+IrETJ/UyDtVg==",
+      "sha512": "+DvUUWmIPjMuddviOu2T2riOvO0ia7VtN2qjiWROQ6iWATQFb9T8EamP3IHXW2Bse61kC+R1tmGKrdLrpjPUxw==",
       "type": "package",
       "path": "system.data.sqlclient/4.5.0-rc1",
       "files": [
@@ -9308,7 +9308,7 @@
       ]
     },
     "System.Diagnostics.DiagnosticSource/4.5.0-rc1": {
-      "sha512": "/lWxkYHpLF4ols3Iip9dFQoxGXV2ZY4nCD07nV2PNROeCkvAtpdjX2HPYAd+KVRaK1f5te7MVofV8UAJlaVsww==",
+      "sha512": "SRUYpmTMa0tMMBUp+wQFFPLE/oGbQK76qQCP4CM4kkuRx0HM9hidwunxgURylMyv1vMA9UiPlZiGfQEsNKjWig==",
       "type": "package",
       "path": "system.diagnostics.diagnosticsource/4.5.0-rc1",
       "files": [
@@ -10280,7 +10280,7 @@
       ]
     },
     "System.Memory/4.5.0-rc1": {
-      "sha512": "AgFS/k74Hmw3T+gicCxj+e/YLvo2YYpAXsVXq+4C3g6xxWENxLM3ibdD5KrZwixZ0X36RLKtmmcx8tL6O7C+iQ==",
+      "sha512": "IkkrtSV0PLjm7incuVoaC89ywJ+iicySsXq9U3Y5weGLZjDCST5In0HvWznTJ9oMnaQF+R/RmYt/+JOJffqwwg==",
       "type": "package",
       "path": "system.memory/4.5.0-rc1",
       "files": [
@@ -11241,7 +11241,7 @@
       ]
     },
     "System.Runtime.CompilerServices.Unsafe/4.5.0-rc1": {
-      "sha512": "d1OzBivBnuCRYPrRWkzkafwTwAQBEGyKYjX9HwFhT+YOWun77AyAMIS++UsLq0z0j1HfHx8iI5ZAt8+kXwfnFw==",
+      "sha512": "0f7DGquNumTtl65hiicy9y4OCd/dVzIKdNJ7ZQjD+HGVnZDJSu/RgY0KWkvkqGGGl4hURKcjNyjLd554nPdfEQ==",
       "type": "package",
       "path": "system.runtime.compilerservices.unsafe/4.5.0-rc1",
       "files": [
@@ -11716,7 +11716,7 @@
       ]
     },
     "System.Security.AccessControl/4.5.0-rc1": {
-      "sha512": "bbmS09dlSaVCXUG1kyo7rHLnsoG9G0L8YPyt3mDKAAdetsXLb0Lx2zeTGCAymVi28voi4f+s4oUWuSE5KjyDVA==",
+      "sha512": "pZycwqqK60EszSYfF8bolcpS+INZMjKDL/w5RD5z2YS39aPQ95JVNKTZ/ynV7YWO8zHiynS0avEl7BgeGBZBXg==",
       "type": "package",
       "path": "system.security.accesscontrol/4.5.0-rc1",
       "files": [
@@ -12099,7 +12099,7 @@
       ]
     },
     "System.Security.Principal.Windows/4.5.0-rc1": {
-      "sha512": "BKdXbmb7VTmFKsr7k4HSphxFhqwGP7d9RPJL9GW72SFENWFafIoS+hvEDh5VB0uCYY1f1v/UwcE3Yay0fjMZQA==",
+      "sha512": "39aIzBODaSctzWBNcqIo3DYc6vqSetHNNewSFxb+5RvQfpqfjs77S4E657mj/+yCdnvWDcaTb5eF1PE/Lqky4Q==",
       "type": "package",
       "path": "system.security.principal.windows/4.5.0-rc1",
       "files": [
@@ -12271,7 +12271,7 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.5.0-rc1": {
-      "sha512": "odoLDvACxh/FlanlhcKuXhBsDqS/rWUxu4g7AK73N7FAfcF94o3UGv4tkuavvKE3YUhe8GyU+pwjrVzOaVm3Gw==",
+      "sha512": "mDLr+1FjdHWJyxeIUpidyGodsSNjvjux2mMq14FEcDCJgdCpzCrCLyb9ZvfOe/R4dSFCQd7rwwT5mJkY3o9e2g==",
       "type": "package",
       "path": "system.text.encoding.codepages/4.5.0-rc1",
       "files": [
@@ -13228,23 +13228,26 @@
   },
   "packageFolders": {
     "C:\\Users\\Shahram\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework.csproj",
+      "projectUniqueName": "C:\\Project\\Reminder\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework.csproj",
       "projectName": "MobileApiGeneratorFramework",
-      "projectPath": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework.csproj",
+      "projectPath": "C:\\Project\\Reminder\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework.csproj",
       "packagesPath": "C:\\Users\\Shahram\\.nuget\\packages\\",
-      "outputPath": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\obj\\",
+      "outputPath": "C:\\Project\\Reminder\\MobileApiGeneratorFramework\\MobileApiGeneratorFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Shahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -13256,11 +13259,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj": {
-              "projectPath": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj"
+            "C:\\Project\\Reminder\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj": {
+              "projectPath": "C:\\Project\\Reminder\\MobileApiGeneratorFramework\\GeneralLibrary\\GeneralLibrary.csproj"
             },
-            "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\ReminderLibrary\\ReminderLibrary.csproj": {
-              "projectPath": "D:\\Shahram Framework\\MobileFrameWork\\MobileApiGeneratorFramework\\ReminderLibrary\\ReminderLibrary.csproj"
+            "C:\\Project\\Reminder\\MobileApiGeneratorFramework\\ReminderLibrary\\ReminderLibrary.csproj": {
+              "projectPath": "C:\\Project\\Reminder\\MobileApiGeneratorFramework\\ReminderLibrary\\ReminderLibrary.csproj"
             }
           }
         }
