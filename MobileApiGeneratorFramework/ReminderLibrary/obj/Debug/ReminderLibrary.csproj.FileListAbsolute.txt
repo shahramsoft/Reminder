@@ -9,3 +9,14 @@ D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary
 D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.csproj.CopyComplete
 D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.dll
 D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.pdb
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\ReminderLibrary.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\ReminderLibrary.pdb
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\GeneralLibrary.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\GeneralLibrary.pdb
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.csprojResolveAssemblyReference.cache
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.csproj.CoreCompileInputs.cache
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.csproj.CopyComplete
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\ReminderLibrary\obj\Debug\ReminderLibrary.pdb

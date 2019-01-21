@@ -18,3 +18,13 @@ D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\GeneralLibrary\
 D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.csproj.CopyComplete
 D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.dll
 D:\Shahram Framework\MobileFrameWork\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.pdb
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\GeneralLibrary.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\GeneralLibrary.pdb
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.csprojResolveAssemblyReference.cache
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.csproj.CoreCompileInputs.cache
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.csproj.CopyComplete
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\GeneralLibrary\obj\Debug\GeneralLibrary.pdb

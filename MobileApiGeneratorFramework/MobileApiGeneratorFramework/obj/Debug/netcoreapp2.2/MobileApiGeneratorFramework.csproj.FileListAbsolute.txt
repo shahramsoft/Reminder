@@ -1,0 +1,16 @@
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.2\MobileApiGeneratorFramework.deps.json
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.2\MobileApiGeneratorFramework.runtimeconfig.json
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.2\MobileApiGeneratorFramework.runtimeconfig.dev.json
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.2\MobileApiGeneratorFramework.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.2\MobileApiGeneratorFramework.pdb
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.2\GeneralLibrary.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.2\ReminderLibrary.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.2\GeneralLibrary.pdb
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\bin\Debug\netcoreapp2.2\ReminderLibrary.pdb
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.2\MobileApiGeneratorFramework.csprojResolveAssemblyReference.cache
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.2\MobileApiGeneratorFramework.csproj.CoreCompileInputs.cache
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.2\MobileApiGeneratorFramework.AssemblyInfoInputs.cache
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.2\MobileApiGeneratorFramework.AssemblyInfo.cs
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.2\MobileApiGeneratorFramework.csproj.CopyComplete
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.2\MobileApiGeneratorFramework.dll
+C:\Project\Reminder\MobileApiGeneratorFramework\MobileApiGeneratorFramework\obj\Debug\netcoreapp2.2\MobileApiGeneratorFramework.pdb
